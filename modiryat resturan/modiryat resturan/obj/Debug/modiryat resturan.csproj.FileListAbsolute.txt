@@ -1,0 +1,57 @@
+C:\Users\lenovo\source\repos\modiryat resturan\bin\Debug\Database1.mdf
+C:\Users\lenovo\source\repos\modiryat resturan\bin\Debug\Database1_log.ldf
+C:\Users\lenovo\source\repos\modiryat resturan\bin\Debug\modiryat resturan.exe.config
+C:\Users\lenovo\source\repos\modiryat resturan\bin\Debug\modiryat resturan.exe
+C:\Users\lenovo\source\repos\modiryat resturan\bin\Debug\modiryat resturan.pdb
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat resturan.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.food.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.Form1.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.mali.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.nobat.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.Properties.Resources.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.sabt_karmand.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat_resturan.sabt_moshtary.resources
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat resturan.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat resturan.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat resturan.exe
+C:\Users\lenovo\source\repos\modiryat resturan\obj\Debug\modiryat resturan.pdb
+C:\Users\Mahdi\Desktop\modiryat resturan\bin\Debug\Database1.mdf
+C:\Users\Mahdi\Desktop\modiryat resturan\bin\Debug\Database1_log.ldf
+C:\Users\Mahdi\Desktop\modiryat resturan\bin\Debug\modiryat resturan.exe.config
+C:\Users\Mahdi\Desktop\modiryat resturan\bin\Debug\modiryat resturan.exe
+C:\Users\Mahdi\Desktop\modiryat resturan\bin\Debug\modiryat resturan.pdb
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat resturan.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.food.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.Form1.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.nobat.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.Properties.Resources.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.sabt_karmand.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.sabt_moshtary.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat resturan.csproj.GenerateResource.cache
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat resturan.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat resturan.exe
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat resturan.pdb
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.showcs.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.showkarmand.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.noobat_rezerw.resources
+C:\Users\Mahdi\Desktop\modiryat resturan\obj\Debug\modiryat_resturan.foodlist.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\bin\Debug\Database1.mdf
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\bin\Debug\Database1_log.ldf
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\bin\Debug\modiryat resturan.exe.config
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\bin\Debug\modiryat resturan.exe
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\bin\Debug\modiryat resturan.pdb
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat resturan.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.food.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.foodlist.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.Form1.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.nobat.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.noobat_rezerw.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.Properties.Resources.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.sabt_karmand.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.sabt_moshtary.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.showcs.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat_resturan.showkarmand.resources
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat resturan.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat resturan.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat resturan.exe
+C:\Users\lenovo\Desktop\modiryat resturan\modiryat resturan\obj\Debug\modiryat resturan.pdb
